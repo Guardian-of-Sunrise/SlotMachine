@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+*.obj
+*.pdb
+*.log
+*.tlog
+*.ilk
+*.exp
+*.ipch
+*.db
+*.aps
+*.ncb
+*.sdf
+*.VC.db
+
+# Debug и Release
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+
+# Собранные файлы
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+*.o
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
